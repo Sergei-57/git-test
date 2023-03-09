@@ -1,3 +1,9 @@
 h1 {
   color: red;
+  font-size: 2rem;
+}
+
+p {
+  color: aqua;
+  font-size: 0.5rem;
 }
